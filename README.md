@@ -1,6 +1,6 @@
 # KrishiMitra - Your Farming Assistant
 
-KrishiMitra is a comprehensive mobile application designed to assist farmers with weather-based crop suggestions, detailed crop information, and interactive farming assistance through an integrated chatbot.
+KrishiMitra is a comprehensive mobile application designed to assist farmers with weather-based crop suggestions, social media talks to other farmers, detailed crop information, and interactive farming assistance through an integrated chatbot.
 
 ## Features
 
@@ -47,6 +47,10 @@ KrishiMitra is a comprehensive mobile application designed to assist farmers wit
 - Animated transitions and interactive elements
 - Material Design components
 
+### Other Features
+- Uses ML models for disease prediction in crops.
+- Integrated Supabase for social media and Auth purposes.
+
 ## Getting Started
 
 ### Prerequisites
@@ -62,12 +66,7 @@ KrishiMitra is a comprehensive mobile application designed to assist farmers wit
 4. Run `flutter run` to launch the application
 
 ## Development Team
-- Abhilipsa Sahoo - UI/UX Developer
-- Sumati Paliwal - Frontend Developer
 - Aaditya Tiwary - Backend Developer
-
-## Screenshots
-(Add screenshots of different app sections here)
 
 ## Future Enhancements
 - Offline mode for basic functionality
@@ -75,4 +74,5 @@ KrishiMitra is a comprehensive mobile application designed to assist farmers wit
 - Crop disease identification using camera
 - Community forum for farmers
 - Weather alerts and notifications
+
 
